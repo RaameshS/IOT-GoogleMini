@@ -1,5 +1,5 @@
 #!/bin/bash
-Raamesh
+raamesh
 cd myfirstiot
 wget https://github.com/RaameshS/IOT-GoogleMini/archive/master.zip
 unzip master.zip
