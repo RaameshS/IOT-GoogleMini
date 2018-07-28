@@ -1,7 +1,7 @@
 #!/bin/bash
-mkdir netmedias
-cd netmedias
-wget https://github.com/nassir-malik/IOT-Pi3-GoogleHome-Automation/archive/master.zip
+Raamesh
+cd Raamesh
+wget https://github.com/RaameshS/IOT.GoogleMini/archive/master.zip
 unzip master.zip
 cd IOT-Pi3-Google-Home-Mini-Automation-master
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
