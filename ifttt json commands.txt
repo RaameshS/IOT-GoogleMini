@@ -1,5 +1,5 @@
-{"device":"demo light","state":"true"}
-{"device":"demo light","state":"false"}
+{"device":"light","state":"true"}
+{"device":"light","state":"false"}
 
-{"device":"bedroom fan","state":"true"}
-{"device":"bedroom fan","state":"false"}
+{"device":"fan","state":"true"}
+{"device":"fan","state":"false"}
