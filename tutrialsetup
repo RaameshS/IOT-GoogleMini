@@ -1,6 +1,6 @@
 #!/bin/bash
 Raamesh
-cd Raamesh
+cd Raameshiot
 wget https://github.com/RaameshS/IOT.GoogleMini/archive/master.zip
 unzip master.zip
 cd IOT.GoogleMini-master
