@@ -1,9 +1,9 @@
 #!/bin/bash
 Raamesh
-cd Raameshiot
-wget https://github.com/RaameshS/IOT.GoogleMini/archive/master.zip
+cd myfirstiot
+wget https://github.com/RaameshS/IOT-GoogleMini/archive/master.zip
 unzip master.zip
-cd IOT.GoogleMini-master
+cd IOT-GoogleMini-master
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 
